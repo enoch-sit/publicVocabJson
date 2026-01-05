@@ -1,0 +1,20 @@
+{
+  "wordParts": [
+    {
+      "basePart": "bio",
+      "variants": "bi",
+      "type": "ROOT",
+      "meaning": "life",
+      "origin": "Greek",
+      "examples": "biology, biography, biodegradable"
+    },
+    {
+      "basePart": "auto",
+      "variants": "",
+      "type": "PREFIX",
+      "meaning": "self",
+      "origin": "Greek",
+      "examples": "automatic, automobile, autobiography"
+    }
+  ]
+}
