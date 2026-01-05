@@ -1,0 +1,18 @@
+{
+  "vocabulary": [
+    {
+      "word": "biodegradable",
+      "definition": "Capable of being decomposed by bacteria or other living organisms",
+      "pronunciation": "bahy-oh-dih-GREY-duh-buhl",
+      "partOfSpeech": "adjective",
+      "category": "environmental",
+      "difficulty": 2,
+      "exampleSentence": "Biodegradable plastics break down naturally over time.",
+      "synonyms": "decomposable, degradable",
+      "antonyms": "non-biodegradable, permanent",
+      "youtubeVideoUrl": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+      "videoTitle": "Understanding Biodegradable Materials",
+      "wordParts": ["bio", "de", "able"]
+    }
+  ]
+}
